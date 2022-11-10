@@ -1,0 +1,8 @@
+{
+  "name": "github-workflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zillako/github-workflow.git",
+  "author": "Zilla Ko <devzillako@gmail.com>",
+  "license": "MIT"
+}
