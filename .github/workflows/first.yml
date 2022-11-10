@@ -19,6 +19,6 @@ jobs:
       - name: "Automated Version Bump"
         uses: "phips28/gh-action-bump-version@master"
         with:
-          tag-prefix: ""ß
+          tag-prefix: ""
       - name: "cat package.json"
         run: cat ./package.json
